@@ -1,0 +1,85 @@
+body{
+	background-color: #f1f1f1;
+}
+.head{
+	width: 100%;
+	height: 7.02rem;
+}
+.head img{
+	width: 100%;
+	height: 7.02rem;
+}
+.login{
+	width: 100%;
+	height: 3rem;
+	background-color: #fff;
+	padding: 0.9rem 1.2rem;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.login1{
+	width: 3.6rem;
+	height: 1.2rem;
+	line-height: 1.2rem;
+	text-align: center;
+	background-color: #ea7986;
+	border-radius: 0.05rem;
+}
+.login1 p{
+	color: #fff;
+	font-size: 0.4rem;
+}
+.login2{
+	width: 3.6rem;
+	height: 1.2rem;
+	line-height: 1.2rem;
+	text-align: center;
+	border: 0.03rem solid #66a5ec;
+	border-radius: 0.05rem;
+}
+.login2 p{
+	color: #66a5ec;
+	font-size: 0.4rem;
+}
+.footer{
+	height: 1.56rem;
+	width: 100%;
+	overflow: hidden;
+	position: fixed;
+	top: 17.65rem;
+	left: 0;
+	background-color: #fff;
+	border-top: 0.01rem solid #9d9d9d;
+}
+.footer1{
+	width: 20%;
+	height: 1.48rem;
+	float: left;
+	text-align: center;
+	margin-top: 0.1rem;
+}
+.footer1 h2{
+	font-family: 'iconfont';
+	font-size: 0.6rem;
+	color: #9d9d9d;
+	margin-top: 0.08rem;
+}
+.footer1 h3{
+	color: #9d9d9d;
+	font-size: 0.34rem;
+}
+.footer2 h2{
+	font-family: 'iconfont';
+	font-size: 0.6rem;
+	color: #66a5ec;
+	margin-top: 0.08rem;
+}
+.footer2 h3{
+	color: #66a5ec;
+	font-size: 0.34rem;
+	margin-top: 0.03rem;
+}
+.footer2{
+	border-bottom: 0.09rem solid #66a5ec;
+}

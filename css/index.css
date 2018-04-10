@@ -1,0 +1,184 @@
+body{
+    scroll:no;
+}
+.head{
+    width: 100%;
+    background: #ffc640;
+    padding:0.5rem 0.5rem;
+}
+.addr{
+    width: 100%;
+    height: 2.5rem;
+    line-height: 2.5rem;
+    color: #333;
+    font-size: 0.6rem;
+}
+.addr span{
+    font-family: 'iconfont';
+    font-size: 1rem;
+    display: block;
+    float: left;
+}
+.addr em{
+    display: block;
+    float: left;
+}
+.addr b{
+    font-family: 'iconfont';
+    font-size: 1rem;
+    float: right;
+}
+.weah{
+    float: right;
+    width: 2rem;
+    height: 2rem;
+    margin-right: 0.5rem;
+}
+.weah span{
+    font-family: 'iconfont';
+    font-size: 1.2rem;
+}
+.research{
+    width: 100%;
+    height: 2.5rem;
+    border:none;
+    margin-top: 0.5rem;
+}
+.banner{
+    width: 100%;
+    padding:0.5rem;
+}
+.banner1{
+    width: 100%;
+    height:7rem;
+    position: relative;
+}
+.banner1 img{
+    width:100%;
+    position: absolute;
+    bottom:0;
+    left:0;
+}
+.banner2 {
+    width: 100%;
+    height: 6rem;
+}
+.banner2 img{
+    width: 100%;
+}
+.tit3{
+    width: 100vw;
+    height: 14rem;
+    position: relative;
+}
+.tit0{
+    width:200vw;
+    overflow-x: scroll;
+}
+.tit{
+    width:100vw;
+    height: 13.5rem;
+    float: left;
+    padding:0.5rem 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+}
+.tit1{
+    width: 4rem;
+    height: 6rem;
+    background: #fff;
+    text-align: center;
+}
+.tit1 img{
+    width: 3rem;
+    height: 3rem;
+}
+.tit1 span{
+    font-size:0.34rem;
+    color:#333;
+}
+.pagers{
+    width: 5rem;
+    height: 0.5rem;
+    margin:0 auto;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    top:13.5rem;
+    left:10.5rem;
+}
+.pager{
+    width: 2rem;
+    height: 0.3rem;
+    border-radius: 0.1rem;
+    background: #ccc;
+}
+.pageractive{
+    background: #ffc640;
+}
+.youhui0{
+    padding:0.5rem 0.5rem;
+}
+.youhui0 b{
+    font-size: 1.2rem;
+    color: #333;
+}
+.youhui{
+    width: 100%;
+    height: 16rem;
+    margin-top: 0.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+}
+.youhui_item{
+    width: 11rem;
+}
+.youhui_item1{
+    width: 11rem;
+}
+.youhui_item11{
+    width: 5.5rem;
+    height: 8.5rem;
+    float: left;
+    padding-top: 0.5rem;
+    background: #fefaf6;
+}
+.youhui_item11 b{
+    font-size: 1.2rem;
+    color: #333;
+}
+.youhui_item11 p{
+    font-size: 1rem;
+    color: #999;
+}
+.youhui_item11 img{
+    width: 5.5rem;
+    height: 4rem;
+    display: block;
+    margin-top: 0.5rem;
+}
+.youxuan{
+    height: 25rem;
+}
+.dd_tit{
+    width: 14rem;
+    margin-left: 0.5rem;
+    margin-top: 1rem;
+}
+.dd_item0{
+    overflow-x: scroll;
+}
+.dd_item{
+    width: 56rem;
+}
+.dd_item img{
+    width: 18rem;
+    height: 8rem;
+    display: block;
+    float: left;
+    margin-right: 0.5rem;
+}
